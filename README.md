@@ -37,7 +37,7 @@ go run main.go
 > Make sure you have go installed
 
 ## 📦 Requirements
-- Go 1.16 or higher (but should work on older versions too)
+- Go 1.24 or higher (but should work on older versions too)
 
 - A terminal that supports ANSI escape sequences (for color output)
 
